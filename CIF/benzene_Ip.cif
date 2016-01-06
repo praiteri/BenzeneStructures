@@ -1,0 +1,80 @@
+data_Benzene_Ip
+_audit_creation_date      '?'
+_audit_creation_method    'PLATON <TABLE ACC> option' 
+
+_publ_contact_author_name 'Dr. Paolo Raiteri'
+
+_publ_contact_author_address         
+;
+'Dept. of Chemistry and Applied Biosciences, ETH Zuerich'
+;
+
+_publ_contact_author_email           
+;
+'praiteri@phys.chem.ethz'
+;
+
+_chemical_formula_sum         'C6 H6'
+_chemical_formula_weight       78.11
+_chemical_formula_moiety
+;
+C6 H6
+;
+
+loop_
+_chemical_name_systematic     Benzene
+
+_exptl_special_details
+;
+I' polymorph
+;
+
+_symmetry_cell_setting               Orthorhombic
+_symmetry_space_group_name_Hall      '-C 2bc 2'
+_symmetry_space_group_name_H-M       'C m c a'
+_symmetry_Int_Tables_number                 64
+
+loop_
+_symmetry_equiv_pos_as_xyz
+ x,y,z
+ -x,1/2-y,1/2+z
+ x,-y,-z
+ -x,1/2+y,1/2-z
+ -x,-y,-z
+ x,1/2+y,1/2-z
+ -x,y,z
+ x,1/2-y,1/2+z
+ 1/2+x,1/2+y,z
+ 1/2-x,-y,1/2+z
+ 1/2+x,1/2-y,-z
+ 1/2-x,y,1/2-z
+ 1/2-x,1/2-y,-z
+ 1/2+x,y,1/2-z
+ 1/2-x,1/2+y,z
+ 1/2+x,-y,1/2+z
+
+_cell_length_a                  9.4700
+_cell_length_b                  7.1800
+_cell_length_c                  7.1400
+_cell_angle_alpha               90
+_cell_angle_beta                90
+_cell_angle_gamma               90
+_cell_volume                    485.48
+_cell_formula_units_Z           4
+_cell_measurement_pressure 	0
+
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C  C 0.35192 0.00000 0.00000  
+C1 C 0.42563 0.12851 0.10918 
+H  H 0.23788 0.00000 0.00000  
+H1 H 0.36886 0.22780 0.19363 
